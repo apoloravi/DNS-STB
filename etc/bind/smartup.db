@@ -12,4 +12,4 @@ $TTL	86400
 			  86400 )	; Negative Cache TTL
 ;
 @	IN	NS	tv.smartup.tv.
-tv.smartup.tv.	IN	A	209.126.86.146
+tv.smartup.tv.	IN	A	165.227.71.2
