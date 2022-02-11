@@ -12,4 +12,4 @@ $TTL	86400
 			  86400 )	; Negative Cache TTL
 ;
 @	IN	NS	apptv.ccma.cat.
-apptv.ccma.cat.		IN	A	209.126.86.146
+apptv.ccma.cat.		IN	A	165.227.71.2
