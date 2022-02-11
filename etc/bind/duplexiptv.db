@@ -12,4 +12,4 @@ $TTL	86400
 			  86400 )	; Negative Cache TTL
 ;
 @	IN	NS	duplexiptv.com.
-duplexiptv.com.		IN	A	209.126.86.146
+duplexiptv.com.		IN	A	165.227.71.2
