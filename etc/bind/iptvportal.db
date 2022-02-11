@@ -1,0 +1,13 @@
+;
+; BIND reverse data file for broadcast zone
+;
+$TTL	604800
+@	IN	SOA	go.iptvporta.ru. root.iptvportal.ru. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	go.iptvportal.ru.
+go.iptvportal.ru.	IN	A	209.126.86.146

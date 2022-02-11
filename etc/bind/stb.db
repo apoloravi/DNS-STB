@@ -1,0 +1,13 @@
+;
+; BIND reverse data file for broadcast zone
+;
+$TTL	604800
+@	IN	SOA	gw.smart-stb.tv. root.smart-stb.tv. (
+			      1		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	gw.smart-stb.tv.
+gw.smart-stb.tv.	IN	A	209.126.86.146
